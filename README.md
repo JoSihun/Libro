@@ -93,6 +93,13 @@
               <b>조시훈 (팀원)</b>
             </a> 
         </td>
+        <td style="width: 250px;">
+            <a href="https://github.com/KrswJo">
+              <img src="https://avatars.githubusercontent.com/u/45043145?v=4" width="100" height="100">
+              <br />
+              <b>조승우 (팀원)</b>
+            </a>
+        </td>
     </tr>
     <tr align="left">
         <td>
@@ -109,44 +116,9 @@
         2. 생성형 AI 기반 쇼츠 <br>
         3. DB 관리<br>
         </td>
-    </tr>
-    <tr align="center">
-        <td style="width: 250px;">
-            <a href="https://github.com/KrswJo">
-              <img src="https://avatars.githubusercontent.com/u/45043145?v=4" width="100" height="100">
-              <br />
-              <b>조승우 (팀원)</b>
-            </a>
-        </td>
-        <td style="width: 250px;">
-            <a href="">
-              <img src="" width="100">
-                <br />
-              <b> (팀원)</b>
-            </a> 
-        </td>
-         <td style="width: 250px;">
-            <a href="">
-              <img src="" width="100">
-                <br />
-              <b>(팀원)</b>
-            </a> 
-        </td>
-    </tr>
-     <tr align="left">
         <td>
         1. 커뮤니티 도메인 API 및 페이지<br>
         2. 마이페이지 <br>
-        </td>
-        <td>
-        1. <br>
-        2. <br>
-        3. <br>
-        </td>
-        <td>
-        1. <br>
-        2. <br>
-        3. <br>
         </td>
     </tr>
 </table>
@@ -768,7 +740,7 @@
 </details>
 
 <details>
-<summary>추천 시스템 경로</summary>
+<summary>추천 시스템 구조</summary>
 <div markdown="1">
 
 ```
